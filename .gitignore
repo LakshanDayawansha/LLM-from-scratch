@@ -1,3 +1,4 @@
+.gitignore
 gpt_download.py
 gpt.py
 implement_KV_chase.ipynb
